@@ -25,3 +25,8 @@ input {
 button{
     margin-top: 10px;
 }
+h3 {
+    display: none;
+    color: red;
+    
+}
